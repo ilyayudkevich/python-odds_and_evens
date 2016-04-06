@@ -1,0 +1,18 @@
+[
+    {
+        "pk": 1,
+        "model": "game.result",
+        "fields": {
+            "name": "win",
+            "iname": 0
+        }
+    },
+    {
+        "pk": 2,
+        "model": "game.result",
+        "fields": {
+            "name": "loss",
+            "iname": 0
+        }
+    }
+]

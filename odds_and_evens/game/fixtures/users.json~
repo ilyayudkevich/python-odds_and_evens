@@ -1,0 +1,22 @@
+[
+    {
+        "pk": 2,
+        "model": "auth.user",
+        "fields": {
+            "username": "player1",
+            "url": "http://127.0.0.1:8000/users/2/",
+            "groups": [],
+            "email": "player1@email.com"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "auth.user",
+        "fields": {
+            "username": "player2",
+            "url": "http://127.0.0.1:8000/users/3/",
+            "groups": [],
+            "email": "player2@email.com"
+        }
+    }
+]

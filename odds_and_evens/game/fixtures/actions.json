@@ -1,0 +1,18 @@
+[
+    {
+        "pk": 1,
+        "model": "game.action",
+        "fields": {
+            "name": "odd",
+            "iname": 1
+        }
+    },
+    {
+        "pk": 2,
+        "model": "game.action",
+        "fields": {
+            "name": "even",
+            "iname": 2
+        }
+    }
+]
